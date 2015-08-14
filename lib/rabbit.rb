@@ -1,5 +1,6 @@
 require 'bunny'
 
+# for RabbitMQ
 class Rabbit
   def initialize
     @connection = Bunny.new

@@ -1,6 +1,6 @@
 # ws_test
 
-##### required: RabbitMQ
+##### required: RabbitMQ, MongoDB
 
 run http server:
 
